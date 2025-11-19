@@ -2,12 +2,29 @@
 
 Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny naglowek na przyklad [Geonosians (omicron)](#geonosians-omicron), pod naglowkiem jest lista counterow z malym opisem strategii i potencjalnych problemow.
 
+- [Territorry War counters](#territorry-war-counters)
+  - [Geonosians (omicron)](#geonosians-omicron)
+  - [Malgus sith empire](#malgus-sith-empire)
+  - [Night Sisters (Mother Talzin lead)](#night-sisters-mother-talzin-lead)
+  - [GG omi](#gg-omi)
+  - [Phoenix z crex](#phoenix-z-crex)
+
+
 ---
 
 ## Geonosians (omicron)
 
 - **IT veers, piett, range, moff, dark trooper**
-   - `strategia` -> piett (speed +20) musi byc szybszy niz najszybszy geo +50 speed, unikac aoe, mark na dark trooper
+   - `strategia` -> piett (speed +20) musi byc szybszy niz najszybszy geo +50 speed, unikać aoe, mark na dark trooper
+        tutaj trzeba pamietać że geo brute będzie mial 
+        $$
+        \text{geo brute speed} = 216 + 15\% \cdot \text{prędkość GBA} + 
+        \begin{cases}
+        50 & \text{gdy Poggle ma omi} \\
+        0 & \text{w przeciwnym razie}
+        \end{cases}
+        $$
+
 - **legendy**
 - **sith empire**
    - `strategia` -> drevan szybszy, 3 umiejka najpierw

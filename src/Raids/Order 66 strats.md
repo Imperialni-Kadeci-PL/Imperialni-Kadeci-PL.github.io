@@ -1,14 +1,14 @@
-# Raid strats
+# Order 66 strats
 
-- [Raid strats](#raid-strats)
+- [Order 66 strats](#order-66-strats)
   - [Tier 0 (300k max)](#tier-0-300k-max)
   - [Tier 1 (450k max)](#tier-1-450k-max)
-  - [Znane sklady (nie przetestowane osobiscie)](#znane-sklady-nie-przetestowane-osobiscie)
+  - [Znane sklady (nie przetestowane przez gildię)](#znane-sklady-nie-przetestowane-przez-gildię)
 
 
 ## Tier 0 (300k max)
 
-- **Tarkin (solo)** - r3 + dobre mody/r5 zeta na unique musowa solo tarkin robi max, durzo rng, moze zajac kilka podejsc 
+- **Tarkin (solo)** - r3 + dobre mody/r5 zeta na unique musowa solo tarkin robi max, durzo rng, może zając kilka podejść 
 > [!CAUTION]
 > Tarking musi byc solo, bez nikogo innego, ewentualnie dark side clone troopers  
 
@@ -37,12 +37,12 @@
 
 ## Tier 1 (450k max)
 
-- **Tarkin + Scorch** - tarking taki sam jak na tier 0, scorch r3 + najgrubszy jak sie da
+- **Tarkin + Scorch** - Tarkin taki sam jak na tier 0, scorch r3 + najgrubszy jak sie da
 > [!NOTE]
-> Ta bitwa wymaga bardzo specyficznej kolejnosci atakow
+> Ta bitwa wymaga bardzo specyficznej kolejności ataków
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AnRn5Z3gj7w?si=LDyHdttb5Sm-Azp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Znane sklady (nie przetestowane osobiscie)
+## Znane sklady (nie przetestowane przez gildię)
 
-- **Tarkin + Scorch (lub wszyscy dct)** - na r9/r10 robia podobno nawet najwyzszy tier
+- **Tarkin + Scorch (lub wszyscy dct)** - na r9/r10 robią podobno nawet najwyższy tier

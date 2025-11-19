@@ -1,9 +1,19 @@
 # Imperialni Kadeci PL
 
-Baza danych gildii
+<img align="right" src="/favicon.svg" alt="klarity icon" width="150" height="150"/>
 
-Spis tresci:
+
+**Baza danych gildii i materiałow pomocniczych**
+
+--- 
+
+Dane sa tu gromadzone z discorda gildii dla łatwiejszego dostępu
+
+Edytowanie samodzielne tej strony jest jak najbardziej możliwe, prosze pytać na discordzie jak czegoś nie wiadomo.
+
+Spis treści:
 
 - [[TW counters.md]]
-- [[Raid strats.md]]
+- Strategie i materiały do Raidów:
+  - [[Raids/Order 66 strats.md]]
 - [[GAC counters.md]]
