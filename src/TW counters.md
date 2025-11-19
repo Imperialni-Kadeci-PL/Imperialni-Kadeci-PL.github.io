@@ -18,11 +18,8 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
    - `strategia` -> piett (speed +20) musi byc szybszy niz najszybszy geo +50 speed, unikać aoe, mark na dark trooper
         tutaj trzeba pamietać że geo brute będzie mial 
         $$
-        \text{geo brute speed} = 216 + 15\% \cdot \text{prędkość GBA} + 
-        \begin{cases}
-        50 & \text{gdy Poggle ma omi} \\
-        0 & \text{w przeciwnym razie}
-        \end{cases}
+        \text{geo brute speed} = 216 + 15\% \cdot \text{speed GBA} + 
+        50 \text{ gdy Poggle ma omi}
         $$
 
 - **legendy**
