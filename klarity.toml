@@ -1,6 +1,6 @@
 title = "Imperialni Kadeci PL"
 output_dir = "public"
-base_url = "https://Imperialni-Kadeci-PL.github.io/"
+base_url = "https://imperialni-kadeci-pl.github.io/"
 doc_dirs = ["src"]
 entry = "src/Imperialni Kadeci PL.md"
 ignore_out = true

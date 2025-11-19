@@ -3,7 +3,7 @@
 - [Raid strats](#raid-strats)
   - [Tier 0 (300k max)](#tier-0-300k-max)
   - [Tier 1 (450k max)](#tier-1-450k-max)
-  - [Znane sklady (nie przetestowane przez nas)](#znane-sklady-nie-przetestowane-przez-nas)
+  - [Znane sklady (nie przetestowane osobiscie)](#znane-sklady-nie-przetestowane-osobiscie)
 
 
 ## Tier 0 (300k max)
@@ -43,6 +43,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AnRn5Z3gj7w?si=LDyHdttb5Sm-Azp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Znane sklady (nie przetestowane przez nas)
+## Znane sklady (nie przetestowane osobiscie)
 
 - **Tarkin + Scorch (lub wszyscy dct)** - na r9/r10 robia podobno nawet najwyzszy tier

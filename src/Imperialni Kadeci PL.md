@@ -6,3 +6,4 @@ Spis tresci:
 
 - [[TW counters.md]]
 - [[Raid strats.md]]
+- [[GAC counters.md]]
