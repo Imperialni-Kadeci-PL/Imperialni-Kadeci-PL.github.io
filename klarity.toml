@@ -1,0 +1,29 @@
+title = "Imperialni Kadeci PL"
+output_dir = "public"
+base_url = "https://Imperialni-Kadeci-PL.github.io/"
+doc_dirs = ["src"]
+entry = "src/Imperialni Kadeci PL.md"
+ignore_out = true
+
+[visual]
+theme = "evergarden"
+use_spa = true
+custom_css = ""
+
+[visual.vars]
+bg_main = "#100E0E"
+bg_panel = "#161414"
+bg_hover = "#1a0f12"
+bg_active = "#2d0f15"
+
+border_soft = "#312D2D"
+border_hard = "#b89778"
+
+accent_primary = "#e63946"   # crimson red
+accent_secondary = "#fdb515" # rich gold
+
+text_main = "#DAC28E" # "#f1f1f1"
+text_dim = "#D3CFD0"
+
+[dev]
+port = 5173
