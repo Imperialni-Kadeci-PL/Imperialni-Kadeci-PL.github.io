@@ -35,6 +35,10 @@
 
 ---
 
+- **Jedi Vanguard** - daje rade nawet na g12 (uwazac na relic delta)
+    - glowny sklad to: Kelleran Beq (lead), Shaak Ti, Plo Kloon, Aayla Secura + ktokolwiek
+    - pozostawia to reszte jedi ktorzy w zaleznosci od relicu i zet, tez moga dac rade
+
 ## Tier 1 (450k max)
 
 - **Tarkin + Scorch** - Tarkin taki sam jak na tier 0, scorch r3 + najgrubszy jak sie da
