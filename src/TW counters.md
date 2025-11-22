@@ -7,6 +7,8 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
   - [Malgus sith empire](#malgus-sith-empire)
   - [Night Sisters (Mother Talzin lead)](#night-sisters-mother-talzin-lead)
   - [GG omi](#gg-omi)
+  - [Jabba](#jabba)
+  - [SLKR](#slkr)
   - [Phoenix z crex](#phoenix-z-crex)
 
 
@@ -39,5 +41,18 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
   - `strategia` -> mocny gas zeby dlugo wytrzymal
 
 ## GG omi
+
+- **CLS**
+  - `strategia` -> mocniejszy skład, jak najszybciej pozbyć się magna i droideki (dobry datacron z tenacity)
+
+## Jabba
+
+- **SLKR**
+  - `strategia` -> stun na krrsantan, dużo aoe, unikać bonus ataków bo się nie da 
+
+## SLKR
+
+- **JMK (daje rade jak SLKR ma ds Rey)**
+  - `strategia` -> instakill cat na tank, łatwa walka pójdzie z kimkolwiek
 
 ## Phoenix z crex
