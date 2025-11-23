@@ -54,5 +54,7 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
 
 - **JMK (daje rade jak SLKR ma ds Rey)**
   - `strategia` -> instakill cat na tank, łatwa walka pójdzie z kimkolwiek
+- **JML**
+  - `strategia` -> idealny team to: JML, JKL, GM Yoda, JKR, GAS
 
 ## Phoenix z crex
