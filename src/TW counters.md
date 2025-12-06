@@ -29,6 +29,7 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
    - `strategia` -> drevan szybszy, 3 umiejka najpierw
 - **imperium palp lead + vader (mara jade omicron ratuje przy wolnym vaderze)**
    - `strategia` -> vader albo mara musi bysz szybsza niz geosy, potem TM train (jezeli mara jade jest pierwsza, to specjal 2 a potem 3)
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1AMyPrpFDwk?si=evVaVax8UfdyLNVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Malgus sith empire
 
