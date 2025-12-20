@@ -27,6 +27,10 @@ Interpretacja tabeli taka ze postac r3 kontra postac r8 dostaje 150% wiecej obra
 
 # Postacie
 
+## Tuskeny (testowane tylko 3v3)
+
+- Tarkin + scorch (+ ewentualnie dodatkowo disgoused clone trooper)
+
 ## Inkwa
 
 - Phoenix z crex - starcza na normalna inkwe, jak mamy reeve potrzebny jest omi crexa
