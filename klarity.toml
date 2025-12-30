@@ -27,3 +27,6 @@ text_dim = "#D3CFD0"
 
 [dev]
 port = 5173
+
+[editor]
+enable_editor = true
