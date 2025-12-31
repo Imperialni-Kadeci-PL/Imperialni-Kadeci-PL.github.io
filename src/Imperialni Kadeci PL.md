@@ -11,6 +11,9 @@ Dane sa tu gromadzone z discorda gildii dla łatwiejszego dostępu
 
 Edytowanie samodzielne tej strony jest jak najbardziej możliwe, prosze pytać na discordzie jak czegoś nie wiadomo.
 
+> [!TIP]
+> Od niedawna zostalow wprowadzone prototypowe edytowanie tych stron tutaj w przegladarce, na gorze kazdej strony jest "✎ Edit this Page"
+
 Spis treści:
 
 - [[TW counters.md]]
