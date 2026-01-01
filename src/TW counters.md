@@ -61,7 +61,7 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
 
 ## GAS
 
-- ufu (cere lead + starkiller)
+- **ufu (cere lead + starkiller)**
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rjfH31mhYZ8?si=rTHPiArM3xIW1dV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Phoenix z crex
