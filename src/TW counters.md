@@ -44,6 +44,8 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
 
 - **Baylan (stary han gwarantuje wygraną)**
 
+- **SEE + Wat**
+
 ## Night Sisters (Mother Talzin lead)
 
 - **GAS**
