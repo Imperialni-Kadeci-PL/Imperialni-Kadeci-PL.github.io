@@ -49,6 +49,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AnRn5Z3gj7w?si=LDyHdttb5Sm-Azp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Znane sklady (nie przetestowane przez gildię)
+## Tier 3 (900k max) 
 
-- **Tarkin + Scorch (lub wszyscy dct)** - na r9/r10 robią podobno nawet najwyższy tier
+- **Tarkin + Scorch** - Tarkin r7, Scorch r5, strategia: 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ShFmnewFLqw?si=GkwL1nySBLsoqQuz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Inne znane składy
+
+- **Tarkin + Scorch (lub wszyscy dct)** - na r9/r10 robią najwyższy tier
