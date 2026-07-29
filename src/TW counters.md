@@ -10,6 +10,8 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
   - [Jabba](#jabba)
   - [SLKR](#slkr)
   - [GAS](#gas)
+  - [GM (Great Mothers)](#gm-great-mothers)
+  - [Gungany](#gungany)
   - [Phoenix z crex](#phoenix-z-crex)
 
 
@@ -72,5 +74,21 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
 
 - **ufu (cere lead + starkiller)**
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rjfH31mhYZ8?si=rTHPiArM3xIW1dV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## GM (Great Mothers)
+
+- **CLS**
+  - `strategia` -> szansa jest tylko i wylacznie jak GM nie maja omi
+- **DVDE (Darth Vader duels end)**
+- **BKM**
+  - `strategia` -> wymaga specyficznej strategii: 
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/43SfhrKXuJg?si=jM_oxBPg6OMxQ9tN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- **Baylan**
+- **Malgus**
+
+## Gungany
+
+- **GM (Great Mothers)**
+- **BKM**
 
 ## Phoenix z crex
