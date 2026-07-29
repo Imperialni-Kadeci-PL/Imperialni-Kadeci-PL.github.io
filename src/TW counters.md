@@ -37,6 +37,13 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
 - **JKL lead z jkck (lub bez)**
   - `strategia` -> nabicie 30 stackow na jkck i instakill na malgusa, nie uzywac stuna od luke na poczatku, lead zeta jkl konieczna
 
+- **GAS**
+  - może być różnie w zależności on modów i delty
+
+- **Bane**
+
+- **Baylan (stary han gwarantuje wygraną)**
+
 ## Night Sisters (Mother Talzin lead)
 
 - **GAS**
