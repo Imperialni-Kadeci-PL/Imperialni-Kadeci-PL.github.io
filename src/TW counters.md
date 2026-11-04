@@ -12,6 +12,10 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
   - [GAS](#gas)
   - [GM (Great Mothers)](#gm-great-mothers)
   - [Gungany](#gungany)
+  - [Baylan](#baylan)
+  - [DJJ (Darth Jar Jar)](#djj-darth-jar-jar)
+  - [Reva](#reva)
+  - [LV](#lv)
   - [Phoenix z crex](#phoenix-z-crex)
 
 
@@ -89,6 +93,23 @@ Opis counterow i stategii na territory war, kazda druzyna przeciwnika ma wlasny 
 ## Gungany
 
 - **GM (Great Mothers)**
+- **BKM**
+
+## Baylan
+
+- **SLKR**
+  - `strategia` -> stun na shin hati
+
+## DJJ (Darth Jar Jar)
+
+- **LV**
+
+## Reva
+
+- **Bane**
+
+## LV
+
 - **BKM**
 
 ## Phoenix z crex
